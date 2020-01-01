@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\T.Core.csproj" />
     <ProjectReference Include="..\T.Application\T.Application.csproj" />
     <ProjectReference Include="..\T.Core\T.Core.csproj" />
     <ProjectReference Include="..\T.EntityFrameworkCore\T.EntityFrameworkCore.csproj" />
